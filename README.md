@@ -15,3 +15,10 @@ How to configure app wide dark mode.
 5. Enjoy!
 
 [Playground](/DarkMode/DarkMode.swiftpm/)
+
+Thanks to these fine folks for helping:
+
+- https://mastodon.social/@MuseumShuffle
+- https://mastodon.world/@jonduenas
+- https://iosdev.space/@TheSwiftDojo
+- https://mastodon.social/@clarko
