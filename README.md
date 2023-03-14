@@ -1,5 +1,7 @@
 # 👩‍💻 Swift Samples
 
+Examples to help us remember and learn as we go. Might as well share it so others can too!
+
 Made with 💛 by [The Web Workers](https://thewebworkers.co)
 
 ## Dark Mode Example
